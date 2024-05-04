@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicC2022
-- 👀 I’m interested in learning full stack development.
-- 🌱 I’m currently learning web development. 
+- 👀 I’m interested in learning data programming.
+- 🌱 I’m currently learning Python and pursuing Security+ certification. 
 - 💞️ I’m looking to collaborate on projects where I can apply my new skills. 
 - 📫 Message me
 
